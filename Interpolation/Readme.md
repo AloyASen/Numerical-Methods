@@ -1,0 +1,2 @@
+newtons forward interpolation formula
+
